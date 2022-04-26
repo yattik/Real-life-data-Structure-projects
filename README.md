@@ -1,4 +1,4 @@
-# Real-life-data-Structure-projects
+# Real-life-Data-Structure-projects
 Snakes Game (Arrays)
 
 Sudoku (Backtracking)
